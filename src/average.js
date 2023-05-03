@@ -25,5 +25,6 @@ const average = (arrayNumerico) => {
   }
   media = Math.round(soma / arrayNumerico.length);
   return media;
+};
 
 module.exports = average;
