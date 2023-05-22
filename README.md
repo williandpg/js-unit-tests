@@ -25,8 +25,8 @@ Willian Gonçalves - Desenvolvedor(a) do projeto
 ## Agradecimentos
 Esperamos que este projeto de desenvolvimento orientado a testes seja uma oportunidade de aprimorar suas habilidades de programação e compreensão dos conceitos de testes unitários.
 
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
+<!-- # :construction: README em construção ! :construction:
+Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
 Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
